@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 >
 <quote>“You'll never know everything about anything, especially something you love.”</quote><br>
 
-I'm a JavaScript developer and lifelong learner.<br>
+I'm a MERN stack developer and lifelong learner.<br>
 
 Hi there by the way😉!
 
