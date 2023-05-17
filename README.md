@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 I'm a MERN stack developer and lifelong learner.<br>
 
-I am currently building [PicPick](https://github.com/Qinisfighting/picpick) .
+🔭 I’m currently working on [PicPick](https://github.com/Qinisfighting/picpick) .
 
-Hi there by the way😉!
+📫 Reach me: yq.qualmann@gmail.com
+
 
