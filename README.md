@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I'm a MERN stack developer and lifelong learner.<br>
 
-I am currently building [PicPick](https://github.com/Qinisfighting/picpick)
+I am currently building [PicPick](https://github.com/Qinisfighting/picpick) .
 
 Hi there by the way😉!
 
