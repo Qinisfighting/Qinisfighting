@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 I'm a MERN stack developer and lifelong learner.<br>
 
-🔭 I’m currently working on [PicPick](https://github.com/Qinisfighting/picpick) .
+- 🔭 I’m currently working on [PicPick](https://github.com/Qinisfighting/picpick) .
 
-📫 Reach me: yq.qualmann@gmail.com
+- 📫 Reach me: yq.qualmann@gmail.com
 
 
