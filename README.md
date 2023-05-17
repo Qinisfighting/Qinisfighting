@@ -21,6 +21,6 @@ I'm a MERN stack developer and lifelong learner.<br>
 
 - 🔭 I’m currently working on [PicPick](https://github.com/Qinisfighting/picpick) .
 
-- 📫 Reach me: yq.qualmann@gmail.com
+- 📫 Reach me at: yq.qualmann@gmail.com
 
 
