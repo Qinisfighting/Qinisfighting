@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 >
 <quote>“You'll never know everything about anything, especially something you love.”</quote><br>
 
-I'm a MERN stack developer and lifelong learner.<br>
-
-- 🔭 I’m currently working on [vanlife](https://github.com/Qinisfighting/vanlife) .
+I'm a JavaScript/TypeScript/React developer and lifelong learner.<br>
 
 - 📫 Reach me at: yq.qualmann@gmail.com
 
