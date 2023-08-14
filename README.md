@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 >
-yanqin.de
-
 <quote>“You'll never know everything about anything, especially something you love.”</quote><br>
 
 I'm a JavaScript/TypeScript/React developer and lifelong learner.<br>
