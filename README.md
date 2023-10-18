@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 I'm a JavaScript/TypeScript/React developer and lifelong learner.<br>
 
-- 📫 Reach me at: yq.qualmann@gmail.com
+- 📫 Reach me at: yanqin.qualmann@gmail.com
 
 
