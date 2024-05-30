@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 >
 <quote>“You'll never know everything about anything, especially something you love.”</quote><br>
 
-I'm a JavaScript/TypeScript/React developer and lifelong learner.<br>
+I´m someone who enjoys writing code and learning some new stuff.<br>
 
 - 📫 Reach me at: yanqin.qualmann@gmail.com
 
