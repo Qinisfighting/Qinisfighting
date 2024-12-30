@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 >
 <quote>“You'll never know everything about anything, especially something you love.”</quote><br>
 
-I´m just someone enjoying writing code and learning some new stuff.<br>
+I'm just someone who enjoys writing code and learning new things — even when it's my daily job...^^<br>
 
 - 📫 Reach me at: yanqin.qualmann@gmail.com
 
