@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I'm just someone who enjoys writing code and learning some interesting new stuff.<br>
 
 - 🔭 I’m currently working on software for a building automation system using C# in my job
-- 🎯 I’ve recently started learning AI and plan to build some fun side projects in my spare time...yeah, I said “plan”...🫣
+- 🎯 I’m learning AI and plan to build some fun side projects with react and python in my spare time...yeah, I said “plan”...🫣
 
 - 📫 You can reach me at: yanqin.qualmann@gmail.com
 
