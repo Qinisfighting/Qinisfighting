@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 >
 <quote>“You'll never know everything about anything, especially something you love.”</quote><br>
 
-I'm just someone who enjoys writing code and learning some interesting new stuff.<br>
+I'm just someone who enjoys building things and learning some interesting new stuff.<br>
 
 - 🔭 I’m currently working on software for a building automation system using C# in my job
 - 🎯 I’m recently diving into AI and planning to build some fun side projects with React and Python in my spare time...yeah, I said “planning”...🫣
