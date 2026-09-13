@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 I'm just someone who enjoys building things and learning some interesting new stuff.<br>
 
-- 🔭 I’m currently working on software for a building automation system using C# in my job
-- 🎯 I’m recently diving into AI and planning to build some fun side projects with React and Python in my spare time...yeah, I said “planning”...🫣
+- 🔭 I’m currently working on embedded software for a building automation system as a wage slave.
+- 🎯 I’ve been planning to build some fun, AI-driven side projects with React and Python in my spare time... yeah, key word being 'planning'...🫣
 
 - 📫 You can reach me at: yanqin.qualmann@gmail.com
 
